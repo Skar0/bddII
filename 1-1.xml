@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<personne nom="Chène" prenom="Jean">
+	<email>jean.chène@bidonmail.com</email>
+	<adresse codePostal="0101">rue des arbres, 0</adresse>
+	<phone number="0101010101010"/>
+</personne>

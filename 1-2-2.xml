@@ -1,0 +1,10 @@
+<arbo>
+<elem type="file"> file 1 </elem>
+<elem type="folder"> 
+	<elem type="file"> file 2 </elem>
+	<elem type="file"> file 3 </elem>
+	<elem type="folder">
+		<elem type="file"> file 4 </elem>
+	</elem>
+</elem>
+</arbo>

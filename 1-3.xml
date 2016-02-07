@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<dico>
+	<mot att="a">
+		<mot att="nn">
+			<mot att="ée"/>
+			<mot att="uler"/>
+		</mot>
+		<mot att=""></mot>
+	</mot>
+	
+	<mot att="don">
+		<mot att=""/>
+		<mot att="n">
+			<mot att="ée">
+				<mot att=""/>
+				<mot att="s"/>			
+			</mot>
+			<mot att="er"/>
+		</mot>
+
+	</mot>
+
+	<mot att="f">
+		<mot att="a">
+			<mot att="c">
+				<mot att="ile"/>
+				<mot att="heux"/>			
+			</mot>
+			<mot att="ible"/>		
+		</mot>
+		<mot att=""/>
+	</mot>
+
+</dico>
